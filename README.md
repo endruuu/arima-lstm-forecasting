@@ -261,7 +261,7 @@ more suitable than a classical statistical model for this task.
 The repository structure used in this project is:
 
 ```bash
-SalesForecasting/
+<root>/
 │
 ├── dataset/
 │   └── store5.csv
@@ -271,7 +271,7 @@ SalesForecasting/
 │   └── forecast_lstm.ipynb
 │
 ├── documentation/
-│   └── Project 1 - Time Series_Iron Man.pdf
+│   └── Project 1 - Sales Forecasting.pdf
 │
 └── README.md
 ```
